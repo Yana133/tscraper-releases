@@ -1,10 +1,11 @@
 {
-  "latest_version": "7.6 Pro",
-  "download_url": "https://github.com/Yana133/tscraper-releases/releases/download/v7.6_Pro/Admin.Keygen.exe",
+  "latest_version": "7.4 Pro",
+  "download_url": "https://github.com/Yana133/tscraper-releases/releases/download/v7.4_Pro/T-Scraper.Media.7.4.Pro.exe",
   "changelog": [
-    "In-App 1-Click Updater with real-time download progress",
-    "Advanced Table Analytics & Live Search filter",
-    "Accurate Numerical sorting (Views, Likes, Comments, Engagement)",
-    "Faster download & auto-monitor bypassTE"
+    "✨ ការអាប់ដេតថ្មីៗក្នុងកំណែ 7.4 Pro នេះ៖",
+    "Multi-Profile Auto-Retry: នៅពេលដាក់ Scan ច្រើន Profile ប្រសិនបើ Profile ណាជួបបញ្ហា Rate Limit ឬទិន្នន័យទទេ កូដនឹង Auto-Retry សាកល្បងម្ដងទៀតដោយស្វ័យប្រវត្តិ (មិនរំលងចោល ឬទម្លាក់ចោលភ្លាមៗដូចមុនទៀតទេ)។",
+    "TikTok Embed Fallback Retry: បន្ថែម Retry លើការទាញ sec_uid ពី TikTok embed page ការពារកុំឱ្យ TikTok CDN ផ្ដល់ Error ជាបណ្ដោះអាសន្ន។",
+    "Safe Cooldown Delay: បន្ថែមការផ្អាកសម្រាក 1.5 វិនាទី ចន្លោះពី Profile មួយទៅមួយទៀត ដើម្បីកុំឱ្យ TikTok/Facebook Server ចាប់ Throttling / Block IP។",
+    "Optimized Thread Pool: កំណត់ល្បឿនទាញ Analytics ឱ្យសមស្រប ដើម្បីកុំឱ្យបាញ់ request គំហុកខ្លាំងពេក។"
   ]
 }
